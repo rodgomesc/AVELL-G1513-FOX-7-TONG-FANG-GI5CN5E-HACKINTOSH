@@ -167,7 +167,7 @@
 				<key>APSN</key>
 				<false/>
 				<key>CStates</key>
-				<false/>
+				<true/>
 				<key>PStates</key>
 				<false/>
 				<key>PluginType</key>
@@ -208,6 +208,14 @@
 	</dict>
 	<key>CPU</key>
 	<dict>
+		<key>C2</key>
+		<true/>
+		<key>C4</key>
+		<true/>
+		<key>C6</key>
+		<true/>
+		<key>HWPEnable</key>
+		<true/>
 		<key>UseARTFrequency</key>
 		<false/>
 	</dict>
@@ -242,6 +250,10 @@
 				<data>
 				AAAwAQ==
 				</data>
+				<key>framebuffer-unifiedmem</key>
+				<data>
+				AAAAgA==
+				</data>
 			</dict>
 		</dict>
 		<key>USB</key>
@@ -264,6 +276,8 @@
 		<string>Dark</string>
 		<key>KbdPrevLang</key>
 		<true/>
+		<key>Language</key>
+		<string>pt:0</string>
 		<key>Mouse</key>
 		<dict>
 			<key>DoubleClick</key>
@@ -275,6 +289,10 @@
 			<key>Speed</key>
 			<integer>8</integer>
 		</dict>
+		<key>ScreenResolution</key>
+		<string>1920x1080</string>
+		<key>Theme</key>
+		<string>Mojave</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
@@ -495,13 +513,13 @@
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MBP151.88Z.F000.B00.1904222000</string>
+		<string>MBP152.88Z.F000.B00.1904222000</string>
 		<key>Board-ID</key>
-		<string>Mac-937A206F2EE63C01</string>
+		<string>Mac-827FB448E656EC26</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02815303GUJP4FJC</string>
+		<string>C028123014NJH4RCB</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -529,18 +547,18 @@
 		<key>PlatformFeature</key>
 		<string>0x1A</string>
 		<key>ProductName</key>
-		<string>MacBookPro15,1</string>
+		<string>MacBookPro15,2</string>
 		<key>SerialNumber</key>
-		<string>C02WK3YEKGYG</string>
+		<string>C02WGTZWJHCD</string>
 		<key>SmUUID</key>
-		<string>254365BA-01EB-4F27-BD97-AC5125A07618</string>
+		<string>27C8F41C-CE51-4C18-A49F-ADA98D94CBAC</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
 		<key>CustomUUID</key>
-		<string>79366439-3CA9-456B-B3F8-1E293490213D</string>
+		<string>9C738EB7-6D91-4E28-A54F-1E378E170B2D</string>
 		<key>InjectKexts</key>
 		<string>Detect</string>
 		<key>InjectSystemID</key>
