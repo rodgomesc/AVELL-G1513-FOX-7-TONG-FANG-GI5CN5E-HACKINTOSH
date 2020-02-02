@@ -36,7 +36,6 @@ Boot into your Windows installation (running on the target laptop) and follow th
 ### Required Tools
 
 - [Balena Etcher](https://www.balena.io/etcher/)
-- [DiskGenius](http://www.diskgenius.cn/)
 - [Latest image of macOS Installer](https://blog.daliansky.net/)
 
 ## Disk Setup (Windows), optional
