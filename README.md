@@ -7,16 +7,23 @@ Based on the work of [Rodrigo Gomes](https://github.com/rodgomesc) and [Yume Mar
 These are the settings that are confirmed to work on this model:
 
 ### Advanced
+
 **OS Support:** UEFI OS
+
 **Wake on LAN:** Enabled
+
 **SATA Mode Selection:** AHCI
+
 **Intel Virtualization Technology:** Enabled
 
 ### Security
+
 **Secure Boot:** Disable
 
 ### Boot
+
 **Launch CSM:** Disable
+
 **LAN Remote Boot:** Disabled
 
 ## Preparation
