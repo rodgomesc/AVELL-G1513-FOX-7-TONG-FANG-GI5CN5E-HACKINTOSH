@@ -91,6 +91,12 @@ Again, wait for it to finish. After rebooting you should be asked to set-up your
 
 There's a very big chance your wireless card isn't supported (if you have an 9560AC like me, you're out of luck). But, you should be able to grab a very cheap USB adapter and use it with your Mac, just install the appropriate drivers. In my case, I'm using one that uses the "Realtek 8188" chipset and the following drivers: https://github.com/chris1111/Wireless-USB-Adapter
 
+## Keyboard Layouts
+
+If you're like me and your laptop has an ABNT2 keyboard, then you mya find that, for some reason, a few keys aren't working as expected. AltGR is mapped as Command, but most of the things you would use it for (specifically, the / and ? characters), can be accessed by Option (like Option + Q for / and Option + W for ?).
+
+For a few others keys, like \| and '", I've generated an keyboard mapping on Ukelele, which is available on the `keyboard-layout` directory. Simply install it for the current user and you should be able to use your keyboard normally again!
+
 ## And that's it, folks!
 
 Thanks so much to the Hackintosh community for making this guide possible, specially [Rodrigo Gomes (@rodgomesc)](https://github.com/rodgomesc) and [Yume Maruyama (@kirainmoe)]((https://github.com/kirainmoe) for providing such useful guides and tools for getting this up and running. 
