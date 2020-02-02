@@ -27,6 +27,7 @@ Boot into your Windows installation (running on the target laptop) and follow th
 
 ### System Preparation
 
+- An USB mouse, since no trackpads are supported on install
 - An GPT-formatted disk, with a EFI partition of at least 200MB
 - At least 30GB of free disk space (I personally recommend an SSD)
 - An 8GB+ USB 2.0 stick (I'm workin with a 32GB one, but 16GB should fit perfectly)
@@ -50,3 +51,44 @@ If you happen to be installing on a second SSD, you can prepare it correctly for
 6. Open CMD as administrator, run `bcdboot %WINDIR% /s A:`, replacing the A: with your assigned drive letter
 7. Copy the files from this repo over to the `A:/EFI` directory (remove the old ones first, replace the A: with your drive letter)
 8. Congratulations, you got Clover installed on your drive.
+
+## Creating the USB Drive
+
+1. Open balenaEtcher and select your disk image, burn it to your flash drive
+2. Check if a new partition was created containing the EFI directory, rename it to something like EFI-BACKUP and copy over the `A:/EFI` directory. This will ensure our Clover installation gets used
+3. Cross your fingers, unplug the flash drive and reboot
+4. You should be greeted by Clover's boot screen, if this doesn't happen, change your boot priorities so that your first boot is from "UEFI OS"
+
+## Installing macOS: Part 1
+
+1. Now that you're in the OS selection screen, plug the flash drive. It will update and show the option "Install macOS". Select it
+2. Wait for a little, lots of text will show, maybe even warnings, what matters here is getting to the language selection screen
+3. When there, you will find yourself on the "macOS Utilities" screen, from recovery. Select "Disk Utility"
+4. Click the button above the "View" text, select "Show All Devices"
+5. Select your SSD, at this point you **may** find some issue where it won't show all available space, but don't worry, select "Erase". Name it EFI, select FAT (MSDOS) as the type. Now, select it, go over to "Partition"
+6. Set it up so that the first partition of your drive is called "EFI" and is of type "MS-DOS (FAT)". It should have somewhere in between 200MB and 300MB. After this, create an APFS partition, give it a name (in my case, I used "Hackintosh" :D) and partition the rest of the disk however your feel nicer. I'm using half of it for macOS and half of it for "Other OS (ExFAT), so that I can share files across my OS'es
+7. Click "Apply" and then "Partition". If for some reason it fails (it normally does), create the partitions as "MacOS Journaled" and then right-click each one, select "Erase" and set them up as you desire.
+8. Now, close the Disk Utility. You will go back to the menu, select "Install macOS", "Continue", "Agree" and finally, select the drive you will be installing it to (Hackintosh, in my case). Click "Install" and wait for it
+9. At this point you probably rebooted and either went to the flash drive bootloader (which is not what we want) or something didn't work at all. Let's fix this
+
+## Reinstalling Clover
+
+Since we deleted our Clover partition on the last step, we'll need to recreate it, else we won't be able to boot correctly. Boot back into Windows and copy back the files you had to the EFI drive. It might have changed it's letter, but don't worry. Just do this and reboot. You won't need the flash drive from now on.
+
+## Installing macOS: Part 2
+
+Select "Boot macOS Install from Hackintosh" (or whatever your drive name is) and you should see the familiar screen you saw the first time you booted from the flash drive, then possibly the Apple logo. Stay calm, it's completely normal! You should be back into the installer in no time.
+
+Again, wait for it to finish. After rebooting you should be asked to set-up your Mac. Congratulations, you now have a Hackintosh.
+
+## Wireless and stuff
+
+There's a very big chance your wireless card isn't supported (if you have an 9560AC like me, you're out of luck). But, you should be able to grab a very cheap USB adapter and use it with your Mac, just install the appropriate drivers. In my case, I'm using one that uses the "Realtek 8188" chipset and the following drivers: https://github.com/chris1111/Wireless-USB-Adapter
+
+## And that's it, folks!
+
+Thanks so much to the Hackintosh community for making this guide possible, specially [Rodrigo Gomes (@rodgomesc)](https://github.com/rodgomesc) and [Yume Maruyama (@kirainmoe)]((https://github.com/kirainmoe) for providing such useful guides and tools for getting this up and running. 
+
+If you feel like checking out the original project, please head over to https://github.com/kirainmoe/hasee-tongfang-macos. It contains lots of helpful tips and probably much more info than my guide. All this content is provided completely **for free**, and you should not have to pay to access any of this. If anyone charged you, please ask them for a refund!
+
+Good luck and have fun!
