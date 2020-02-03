@@ -99,7 +99,7 @@ For a few others keys, like \| and '", I've generated an keyboard mapping on Uke
 
 ## And that's it, folks!
 
-Thanks so much to the Hackintosh community for making this guide possible, specially [Rodrigo Gomes (@rodgomesc)](https://github.com/rodgomesc) and [Yume Maruyama (@kirainmoe)]((https://github.com/kirainmoe) for providing such useful guides and tools for getting this up and running. 
+Thanks so much to the Hackintosh community for making this guide possible, specially [Rodrigo Gomes (@rodgomesc)](https://github.com/rodgomesc) and [Yume Maruyama (@kirainmoe)](https://github.com/kirainmoe) for providing such useful guides and tools for getting this up and running. 
 
 If you feel like checking out the original project, please head over to https://github.com/kirainmoe/hasee-tongfang-macos. It contains lots of helpful tips and probably much more info than my guide. All this content is provided completely **for free**, and you should not have to pay to access any of this. If anyone charged you, please ask them for a refund!
 
