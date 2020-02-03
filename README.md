@@ -94,9 +94,9 @@ There's a very big chance your wireless card isn't supported (if you have an 956
 
 ## Keyboard Layouts
 
-If you're like me and your laptop has an ABNT2 keyboard, then you mya find that, for some reason, a few keys aren't working as expected. AltGR is mapped as Command, but most of the things you would use it for (specifically, the / and ? characters), can be accessed by Option (like Option + Q for / and Option + W for ?).
+If you're like me and your laptop has an ABNT2 keyboard, then you may find that, for some reason, a few keys aren't working as expected. AltGR is mapped as Command, but most of the things you would use it for (specifically, the / and ? characters), can be accessed by Option (like Option + Q for / and Option + W for ?).
 
-For a few others keys, like \| and '", I've generated an keyboard mapping on Ukelele, which is available on the `keyboard-layout` directory. Simply install it for the current user and you should be able to use your keyboard normally again!
+For a few others keys, like `\|` and `'"`, I've generated an keyboard mapping on Ukelele, which is available on the `keyboard-layout` directory. Simply install it for the current user and you should be able to use your keyboard normally again!
 
 ## And that's it, folks!
 
