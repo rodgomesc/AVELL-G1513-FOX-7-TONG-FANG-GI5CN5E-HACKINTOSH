@@ -35,6 +35,7 @@ Boot into your Windows installation (running on the target laptop) and follow th
 ### System Preparation
 
 - An USB mouse, since no trackpads are supported on install
+- An USB wi-fi adapter, since the built-in Intel AC 9560 won't work 
 - An GPT-formatted disk, with a EFI partition of at least 200MB
 - At least 30GB of free disk space (I personally recommend an SSD)
 - An 8GB+ USB 2.0 stick (I'm workin with a 32GB one, but 16GB should fit perfectly)
