@@ -1,2 +1,5 @@
 # AVELL-G1513-FOX-7-TONG-FANG-GI5CN5E-HACKINTOSH
+
 This is a tong fang GI5CN5E Hackintosh
+
+special thanks for [kirainmoe](https://github.com/kirainmoe)
