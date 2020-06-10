@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hackintosh for Avell G1513 FOX-7 (Hasee TongFang GI5CN5E)
 
 Based on the work of [Rodrigo Gomes](https://github.com/rodgomesc) and [Yume Maruyama](https://github.com/kirainmoe).
@@ -106,10 +105,3 @@ Thanks so much to the Hackintosh community for making this guide possible, speci
 If you feel like checking out the original project, please head over to https://github.com/kirainmoe/hasee-tongfang-macos. It contains lots of helpful tips and probably much more info than my guide. All this content is provided completely **for free**, and you should not have to pay to access any of this. If anyone charged you, please ask them for a refund!
 
 Good luck and have fun!
-=======
-# AVELL-G1513-FOX-7-TONG-FANG-GI5CN5E-HACKINTOSH
-
-This is a tong fang GI5CN5E Hackintosh
-
-special thanks for [kirainmoe](https://github.com/kirainmoe)
->>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
