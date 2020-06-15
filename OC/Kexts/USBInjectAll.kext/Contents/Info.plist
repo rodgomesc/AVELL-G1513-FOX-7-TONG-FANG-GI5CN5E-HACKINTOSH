@@ -53,7 +53,13 @@
 				<key>8086_1e31</key>
 				<dict>
 					<key>port-count</key>
+<<<<<<< HEAD
+					<data>
+					CAAAAA==
+					</data>
+=======
 					<data>CAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 					<key>ports</key>
 					<dict>
 						<key>HS01</key>
@@ -61,63 +67,117 @@
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AQAAAA==
+							</data>
+=======
 							<data>AQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS02</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AgAAAA==
+							</data>
+=======
 							<data>AgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS03</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AwAAAA==
+							</data>
+=======
 							<data>AwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS04</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BAAAAA==
+							</data>
+=======
 							<data>BAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS01</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BQAAAA==
+							</data>
+=======
 							<data>BQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS02</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BgAAAA==
+							</data>
+=======
 							<data>BgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS03</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BwAAAA==
+							</data>
+=======
 							<data>BwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS04</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CAAAAA==
+							</data>
+=======
 							<data>CAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 					</dict>
 				</dict>
 				<key>8086_8xxx</key>
 				<dict>
 					<key>port-count</key>
+<<<<<<< HEAD
+					<data>
+					FQAAAA==
+					</data>
+=======
 					<data>FQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 					<key>ports</key>
 					<dict>
 						<key>HS01</key>
@@ -125,147 +185,273 @@
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AQAAAA==
+							</data>
+=======
 							<data>AQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS02</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AgAAAA==
+							</data>
+=======
 							<data>AgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS03</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AwAAAA==
+							</data>
+=======
 							<data>AwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS04</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BAAAAA==
+							</data>
+=======
 							<data>BAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS05</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BQAAAA==
+							</data>
+=======
 							<data>BQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS06</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BgAAAA==
+							</data>
+=======
 							<data>BgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS07</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BwAAAA==
+							</data>
+=======
 							<data>BwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS08</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CAAAAA==
+							</data>
+=======
 							<data>CAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS09</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CQAAAA==
+							</data>
+=======
 							<data>CQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS10</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CgAAAA==
+							</data>
+=======
 							<data>CgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS11</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CwAAAA==
+							</data>
+=======
 							<data>CwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS12</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DAAAAA==
+							</data>
+=======
 							<data>DAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS13</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DQAAAA==
+							</data>
+=======
 							<data>DQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS14</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DgAAAA==
+							</data>
+=======
 							<data>DgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS01</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							EAAAAA==
+							</data>
+=======
 							<data>EAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS02</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							EQAAAA==
+							</data>
+=======
 							<data>EQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS03</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							EgAAAA==
+							</data>
+=======
 							<data>EgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS04</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							EwAAAA==
+							</data>
+=======
 							<data>EwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS05</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							FAAAAA==
+							</data>
+=======
 							<data>FAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS06</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							FQAAAA==
+							</data>
+=======
 							<data>FQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 					</dict>
 				</dict>
 				<key>8086_9cb1</key>
 				<dict>
 					<key>port-count</key>
+<<<<<<< HEAD
+					<data>
+					DwAAAA==
+					</data>
+=======
 					<data>DwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 					<key>ports</key>
 					<dict>
 						<key>HS01</key>
@@ -273,112 +459,208 @@
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AQAAAA==
+							</data>
+=======
 							<data>AQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS02</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AgAAAA==
+							</data>
+=======
 							<data>AgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS03</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AwAAAA==
+							</data>
+=======
 							<data>AwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS04</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BAAAAA==
+							</data>
+=======
 							<data>BAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS05</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BQAAAA==
+							</data>
+=======
 							<data>BQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS06</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BgAAAA==
+							</data>
+=======
 							<data>BgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS07</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BwAAAA==
+							</data>
+=======
 							<data>BwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS08</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CAAAAA==
+							</data>
+=======
 							<data>CAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS09</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CQAAAA==
+							</data>
+=======
 							<data>CQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS10</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CgAAAA==
+							</data>
+=======
 							<data>CgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS11</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CwAAAA==
+							</data>
+=======
 							<data>CwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS01</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DAAAAA==
+							</data>
+=======
 							<data>DAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS02</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DQAAAA==
+							</data>
+=======
 							<data>DQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS03</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DgAAAA==
+							</data>
+=======
 							<data>DgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS04</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DwAAAA==
+							</data>
+=======
 							<data>DwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 					</dict>
 				</dict>
 				<key>8086_9dxx</key>
 				<dict>
 					<key>port-count</key>
+<<<<<<< HEAD
+					<data>
+					EgAAAA==
+					</data>
+=======
 					<data>EgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 					<key>ports</key>
 					<dict>
 						<key>HS01</key>
@@ -386,133 +668,247 @@
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AQAAAA==
+							</data>
+=======
 							<data>AQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS02</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AgAAAA==
+							</data>
+=======
 							<data>AgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS03</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AwAAAA==
+							</data>
+=======
 							<data>AwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS04</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BAAAAA==
+							</data>
+=======
 							<data>BAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS05</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BQAAAA==
+							</data>
+=======
 							<data>BQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS06</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BgAAAA==
+							</data>
+=======
 							<data>BgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS07</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BwAAAA==
+							</data>
+=======
 							<data>BwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS08</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CAAAAA==
+							</data>
+=======
 							<data>CAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS09</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CQAAAA==
+							</data>
+=======
 							<data>CQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS10</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CgAAAA==
+							</data>
+=======
 							<data>CgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS01</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DQAAAA==
+							</data>
+=======
 							<data>DQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS02</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DgAAAA==
+							</data>
+=======
 							<data>DgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS03</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DwAAAA==
+							</data>
+=======
 							<data>DwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS04</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							EAAAAA==
+							</data>
+=======
 							<data>EAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS05</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							EQAAAA==
+							</data>
+=======
 							<data>EQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS06</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							EgAAAA==
+							</data>
+=======
 							<data>EgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>USR1</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CwAAAA==
+							</data>
+=======
 							<data>CwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>USR2</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DAAAAA==
+							</data>
+=======
 							<data>DAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 					</dict>
 				</dict>
 				<key>8086_9xxx</key>
 				<dict>
 					<key>port-count</key>
+<<<<<<< HEAD
+					<data>
+					DQAAAA==
+					</data>
+=======
 					<data>DQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 					<key>ports</key>
 					<dict>
 						<key>HS01</key>
@@ -520,98 +916,182 @@
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AQAAAA==
+							</data>
+=======
 							<data>AQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS02</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AgAAAA==
+							</data>
+=======
 							<data>AgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS03</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AwAAAA==
+							</data>
+=======
 							<data>AwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS04</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BAAAAA==
+							</data>
+=======
 							<data>BAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS05</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BQAAAA==
+							</data>
+=======
 							<data>BQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS06</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BgAAAA==
+							</data>
+=======
 							<data>BgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS07</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BwAAAA==
+							</data>
+=======
 							<data>BwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS08</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CAAAAA==
+							</data>
+=======
 							<data>CAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS09</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CQAAAA==
+							</data>
+=======
 							<data>CQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS01</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CgAAAA==
+							</data>
+=======
 							<data>CgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS02</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CwAAAA==
+							</data>
+=======
 							<data>CwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS03</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DAAAAA==
+							</data>
+=======
 							<data>DAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS04</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DQAAAA==
+							</data>
+=======
 							<data>DQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 					</dict>
 				</dict>
 				<key>8086_a12f</key>
 				<dict>
 					<key>port-count</key>
+<<<<<<< HEAD
+					<data>
+					GgAAAA==
+					</data>
+=======
 					<data>GgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 					<key>ports</key>
 					<dict>
 						<key>HS01</key>
@@ -619,189 +1099,351 @@
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AQAAAA==
+							</data>
+=======
 							<data>AQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS02</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AgAAAA==
+							</data>
+=======
 							<data>AgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS03</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AwAAAA==
+							</data>
+=======
 							<data>AwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS04</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BAAAAA==
+							</data>
+=======
 							<data>BAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS05</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BQAAAA==
+							</data>
+=======
 							<data>BQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS06</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BgAAAA==
+							</data>
+=======
 							<data>BgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS07</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BwAAAA==
+							</data>
+=======
 							<data>BwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS08</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CAAAAA==
+							</data>
+=======
 							<data>CAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS09</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CQAAAA==
+							</data>
+=======
 							<data>CQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS10</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CgAAAA==
+							</data>
+=======
 							<data>CgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS11</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CwAAAA==
+							</data>
+=======
 							<data>CwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS12</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DAAAAA==
+							</data>
+=======
 							<data>DAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS13</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DQAAAA==
+							</data>
+=======
 							<data>DQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS14</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DgAAAA==
+							</data>
+=======
 							<data>DgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS01</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							EQAAAA==
+							</data>
+=======
 							<data>EQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS02</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							EgAAAA==
+							</data>
+=======
 							<data>EgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS03</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							EwAAAA==
+							</data>
+=======
 							<data>EwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS04</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							FAAAAA==
+							</data>
+=======
 							<data>FAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS05</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							FQAAAA==
+							</data>
+=======
 							<data>FQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS06</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							FgAAAA==
+							</data>
+=======
 							<data>FgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS07</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							FwAAAA==
+							</data>
+=======
 							<data>FwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS08</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							GAAAAA==
+							</data>
+=======
 							<data>GAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS09</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							GQAAAA==
+							</data>
+=======
 							<data>GQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS10</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							GgAAAA==
+							</data>
+=======
 							<data>GgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>USR1</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DwAAAA==
+							</data>
+=======
 							<data>DwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>USR2</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							EAAAAA==
+							</data>
+=======
 							<data>EAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 					</dict>
 				</dict>
 				<key>8086_a2af</key>
 				<dict>
 					<key>port-count</key>
+<<<<<<< HEAD
+					<data>
+					GgAAAA==
+					</data>
+=======
 					<data>GgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 					<key>ports</key>
 					<dict>
 						<key>HS01</key>
@@ -809,189 +1451,351 @@
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AQAAAA==
+							</data>
+=======
 							<data>AQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS02</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AgAAAA==
+							</data>
+=======
 							<data>AgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS03</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AwAAAA==
+							</data>
+=======
 							<data>AwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS04</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BAAAAA==
+							</data>
+=======
 							<data>BAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS05</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BQAAAA==
+							</data>
+=======
 							<data>BQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS06</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BgAAAA==
+							</data>
+=======
 							<data>BgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS07</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BwAAAA==
+							</data>
+=======
 							<data>BwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS08</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CAAAAA==
+							</data>
+=======
 							<data>CAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS09</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CQAAAA==
+							</data>
+=======
 							<data>CQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS10</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CgAAAA==
+							</data>
+=======
 							<data>CgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS11</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CwAAAA==
+							</data>
+=======
 							<data>CwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS12</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DAAAAA==
+							</data>
+=======
 							<data>DAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS13</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DQAAAA==
+							</data>
+=======
 							<data>DQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS14</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DgAAAA==
+							</data>
+=======
 							<data>DgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS01</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							EQAAAA==
+							</data>
+=======
 							<data>EQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS02</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							EgAAAA==
+							</data>
+=======
 							<data>EgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS03</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							EwAAAA==
+							</data>
+=======
 							<data>EwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS04</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							FAAAAA==
+							</data>
+=======
 							<data>FAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS05</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							FQAAAA==
+							</data>
+=======
 							<data>FQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS06</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							FgAAAA==
+							</data>
+=======
 							<data>FgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS07</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							FwAAAA==
+							</data>
+=======
 							<data>FwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS08</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							GAAAAA==
+							</data>
+=======
 							<data>GAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS09</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							GQAAAA==
+							</data>
+=======
 							<data>GQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS10</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							GgAAAA==
+							</data>
+=======
 							<data>GgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>USR1</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DwAAAA==
+							</data>
+=======
 							<data>DwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>USR2</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							EAAAAA==
+							</data>
+=======
 							<data>EAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 					</dict>
 				</dict>
 				<key>8086_a36d</key>
 				<dict>
 					<key>port-count</key>
+<<<<<<< HEAD
+					<data>
+					GgAAAA==
+					</data>
+=======
 					<data>GgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 					<key>ports</key>
 					<dict>
 						<key>HS01</key>
@@ -999,189 +1803,351 @@
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AQAAAA==
+							</data>
+=======
 							<data>AQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS02</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AgAAAA==
+							</data>
+=======
 							<data>AgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS03</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AwAAAA==
+							</data>
+=======
 							<data>AwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS04</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BAAAAA==
+							</data>
+=======
 							<data>BAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS05</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BQAAAA==
+							</data>
+=======
 							<data>BQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS06</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BgAAAA==
+							</data>
+=======
 							<data>BgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS07</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BwAAAA==
+							</data>
+=======
 							<data>BwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS08</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CAAAAA==
+							</data>
+=======
 							<data>CAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS09</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CQAAAA==
+							</data>
+=======
 							<data>CQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS10</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CgAAAA==
+							</data>
+=======
 							<data>CgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS11</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CwAAAA==
+							</data>
+=======
 							<data>CwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS12</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DAAAAA==
+							</data>
+=======
 							<data>DAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS13</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DQAAAA==
+							</data>
+=======
 							<data>DQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>HS14</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DgAAAA==
+							</data>
+=======
 							<data>DgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS01</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							EQAAAA==
+							</data>
+=======
 							<data>EQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS02</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							EgAAAA==
+							</data>
+=======
 							<data>EgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS03</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							EwAAAA==
+							</data>
+=======
 							<data>EwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS04</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							FAAAAA==
+							</data>
+=======
 							<data>FAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS05</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							FQAAAA==
+							</data>
+=======
 							<data>FQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS06</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							FgAAAA==
+							</data>
+=======
 							<data>FgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS07</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							FwAAAA==
+							</data>
+=======
 							<data>FwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS08</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							GAAAAA==
+							</data>
+=======
 							<data>GAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS09</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							GQAAAA==
+							</data>
+=======
 							<data>GQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>SS10</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							GgAAAA==
+							</data>
+=======
 							<data>GgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>USR1</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							DwAAAA==
+							</data>
+=======
 							<data>DwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>USR2</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>3</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							EAAAAA==
+							</data>
+=======
 							<data>EAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 					</dict>
 				</dict>
 				<key>EH01</key>
 				<dict>
 					<key>port-count</key>
+<<<<<<< HEAD
+					<data>
+					CAAAAA==
+					</data>
+=======
 					<data>CAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 					<key>ports</key>
 					<dict>
 						<key>PR11</key>
@@ -1189,63 +2155,117 @@
 							<key>UsbConnector</key>
 							<integer>255</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AQAAAA==
+							</data>
+=======
 							<data>AQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>PR12</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>0</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AgAAAA==
+							</data>
+=======
 							<data>AgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>PR13</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>0</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AwAAAA==
+							</data>
+=======
 							<data>AwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>PR14</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>0</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BAAAAA==
+							</data>
+=======
 							<data>BAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>PR15</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>0</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BQAAAA==
+							</data>
+=======
 							<data>BQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>PR16</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>0</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BgAAAA==
+							</data>
+=======
 							<data>BgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>PR17</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>0</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BwAAAA==
+							</data>
+=======
 							<data>BwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>PR18</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>0</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CAAAAA==
+							</data>
+=======
 							<data>CAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 					</dict>
 				</dict>
 				<key>EH02</key>
 				<dict>
 					<key>port-count</key>
+<<<<<<< HEAD
+					<data>
+					BgAAAA==
+					</data>
+=======
 					<data>BgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 					<key>ports</key>
 					<dict>
 						<key>PR21</key>
@@ -1253,104 +2273,194 @@
 							<key>UsbConnector</key>
 							<integer>255</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AQAAAA==
+							</data>
+=======
 							<data>AQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>PR22</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>0</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AgAAAA==
+							</data>
+=======
 							<data>AgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>PR23</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>0</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AwAAAA==
+							</data>
+=======
 							<data>AwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>PR24</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>0</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BAAAAA==
+							</data>
+=======
 							<data>BAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>PR25</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>0</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BQAAAA==
+							</data>
+=======
 							<data>BQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 						<key>PR26</key>
 						<dict>
 							<key>UsbConnector</key>
 							<integer>0</integer>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BgAAAA==
+							</data>
+=======
 							<data>BgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 						</dict>
 					</dict>
 				</dict>
 				<key>HUB1</key>
 				<dict>
 					<key>port-count</key>
+<<<<<<< HEAD
+					<data>
+					CAAAAA==
+					</data>
+=======
 					<data>CAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 					<key>ports</key>
 					<dict>
 						<key>HP11</key>
 						<dict>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AQAAAA==
+							</data>
+=======
 							<data>AQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 							<key>portType</key>
 							<integer>0</integer>
 						</dict>
 						<key>HP12</key>
 						<dict>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AgAAAA==
+							</data>
+=======
 							<data>AgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 							<key>portType</key>
 							<integer>0</integer>
 						</dict>
 						<key>HP13</key>
 						<dict>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AwAAAA==
+							</data>
+=======
 							<data>AwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 							<key>portType</key>
 							<integer>0</integer>
 						</dict>
 						<key>HP14</key>
 						<dict>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BAAAAA==
+							</data>
+=======
 							<data>BAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 							<key>portType</key>
 							<integer>0</integer>
 						</dict>
 						<key>HP15</key>
 						<dict>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BQAAAA==
+							</data>
+=======
 							<data>BQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 							<key>portType</key>
 							<integer>0</integer>
 						</dict>
 						<key>HP16</key>
 						<dict>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BgAAAA==
+							</data>
+=======
 							<data>BgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 							<key>portType</key>
 							<integer>0</integer>
 						</dict>
 						<key>HP17</key>
 						<dict>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BwAAAA==
+							</data>
+=======
 							<data>BwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 							<key>portType</key>
 							<integer>0</integer>
 						</dict>
 						<key>HP18</key>
 						<dict>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CAAAAA==
+							</data>
+=======
 							<data>CAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 							<key>portType</key>
 							<integer>0</integer>
 						</dict>
@@ -1359,62 +2469,116 @@
 				<key>HUB2</key>
 				<dict>
 					<key>port-count</key>
+<<<<<<< HEAD
+					<data>
+					CAAAAA==
+					</data>
+=======
 					<data>CAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 					<key>ports</key>
 					<dict>
 						<key>HP21</key>
 						<dict>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AQAAAA==
+							</data>
+=======
 							<data>AQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 							<key>portType</key>
 							<integer>0</integer>
 						</dict>
 						<key>HP22</key>
 						<dict>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AgAAAA==
+							</data>
+=======
 							<data>AgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 							<key>portType</key>
 							<integer>0</integer>
 						</dict>
 						<key>HP23</key>
 						<dict>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							AwAAAA==
+							</data>
+=======
 							<data>AwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 							<key>portType</key>
 							<integer>0</integer>
 						</dict>
 						<key>HP24</key>
 						<dict>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BAAAAA==
+							</data>
+=======
 							<data>BAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 							<key>portType</key>
 							<integer>0</integer>
 						</dict>
 						<key>HP25</key>
 						<dict>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BQAAAA==
+							</data>
+=======
 							<data>BQAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 							<key>portType</key>
 							<integer>0</integer>
 						</dict>
 						<key>HP26</key>
 						<dict>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BgAAAA==
+							</data>
+=======
 							<data>BgAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 							<key>portType</key>
 							<integer>0</integer>
 						</dict>
 						<key>HP27</key>
 						<dict>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							BwAAAA==
+							</data>
+=======
 							<data>BwAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 							<key>portType</key>
 							<integer>0</integer>
 						</dict>
 						<key>HP28</key>
 						<dict>
 							<key>port</key>
+<<<<<<< HEAD
+							<data>
+							CAAAAA==
+							</data>
+=======
 							<data>CAAAAA==</data>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 							<key>portType</key>
 							<integer>0</integer>
 						</dict>
@@ -3111,36 +4275,11 @@
 			<key>model</key>
 			<string>MacBookPro14,3</string>
 		</dict>
-		<key>MacBookPro15,3-ABPC</key>
-		<dict>
-			<key>CFBundleIdentifier</key>
-			<string>com.rehabman.driver.USBInjectAll</string>
-			<key>IOClass</key>
-			<string>USBInjectAll</string>
-			<key>IOProviderClass</key>
-			<string>AppleBusPowerController</string>
-			<key>kName</key>
-			<string>AppleBusPowerController</string>
-			<key>model</key>
-			<string>MacBookPro15,3</string>
-		</dict>
-		<key>MacBookPro15,3-XHC</key>
-		<dict>
-			<key>CFBundleIdentifier</key>
-			<string>com.rehabman.driver.USBInjectAll</string>
-			<key>IOClass</key>
-			<string>USBInjectAll</string>
-			<key>IONameMatch</key>
-			<array>
-				<string>XHC</string>
-				<string>XHCI</string>
-			</array>
-			<key>IOProviderClass</key>
-			<string>AppleUSBXHCIPCI</string>
-			<key>model</key>
-			<string>MacBookPro15,3</string>
-		</dict>
+<<<<<<< HEAD
 		<key>MacBookPro15,1-ABPC</key>
+=======
+		<key>MacBookPro15,3-ABPC</key>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.rehabman.driver.USBInjectAll</string>
@@ -3151,9 +4290,15 @@
 			<key>kName</key>
 			<string>AppleBusPowerController</string>
 			<key>model</key>
+<<<<<<< HEAD
 			<string>MacBookPro15,1</string>
 		</dict>
 		<key>MacBookPro15,1-XHC</key>
+=======
+			<string>MacBookPro15,3</string>
+		</dict>
+		<key>MacBookPro15,3-XHC</key>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.rehabman.driver.USBInjectAll</string>
@@ -3167,7 +4312,52 @@
 			<key>IOProviderClass</key>
 			<string>AppleUSBXHCIPCI</string>
 			<key>model</key>
+<<<<<<< HEAD
 			<string>MacBookPro15,1</string>
+		</dict>
+		<key>MacBookPro15,2-ABPC</key>
+=======
+			<string>MacBookPro15,3</string>
+		</dict>
+		<key>MacBookPro15,1-ABPC</key>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.rehabman.driver.USBInjectAll</string>
+			<key>IOClass</key>
+			<string>USBInjectAll</string>
+			<key>IOProviderClass</key>
+			<string>AppleBusPowerController</string>
+			<key>kName</key>
+			<string>AppleBusPowerController</string>
+			<key>model</key>
+<<<<<<< HEAD
+			<string>MacBookPro15,2</string>
+		</dict>
+		<key>MacBookPro15,2-XHC</key>
+=======
+			<string>MacBookPro15,1</string>
+		</dict>
+		<key>MacBookPro15,1-XHC</key>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.rehabman.driver.USBInjectAll</string>
+			<key>IOClass</key>
+			<string>USBInjectAll</string>
+			<key>IONameMatch</key>
+			<array>
+				<string>XHC</string>
+				<string>XHCI</string>
+			</array>
+			<key>IOProviderClass</key>
+			<string>AppleUSBXHCIPCI</string>
+			<key>model</key>
+<<<<<<< HEAD
+			<string>MacBookPro15,2</string>
+=======
+			<string>MacBookPro15,1</string>
+>>>>>>> d64a662cb9d43cd59143102b1def0e6a30c5d836
 		</dict>
 		<key>MacBookPro6,1-ABPC</key>
 		<dict>
