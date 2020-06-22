@@ -1198,6 +1198,22 @@
           <key>PlistPath</key>
           <string>Contents/Info.plist</string>
         </dict>
+        <dict>
+          <key>BundlePath</key>
+          <string>AppleIntelWiFi.kext</string>
+          <key>Comment</key>
+          <string>Intell Wireless AC support (experimental, see https://github.com/AppleIntelWifi/adapter)</string>
+          <key>Enabled</key>
+          <true/>
+          <key>ExecutablePath</key>
+          <string>Contents/MacOS/AppleIntelWiFi</string>
+          <key>MaxKernel</key>
+          <string/>
+          <key>MinKernel</key>
+          <string/>
+          <key>PlistPath</key>
+          <string>Contents/Info.plist</string>
+        </dict>
       </array>
       <key>Block</key>
       <array>
