@@ -2,6 +2,12 @@
 
 Based on the work of [Rodrigo Gomes](https://github.com/rodgomesc) and [Yume Maruyama](https://github.com/kirainmoe).
 
+## Warning: This fork is no longer being maintained!
+
+Due to an issue with the laptop I used for working on this fork (in a nutshell, its motherboard died) I won't be maintaining this fork anymore. I hope you all understand that!
+
+Cheers, Matt.
+
 ## BIOS settings
 
 These are the settings that are confirmed to work on this model:
